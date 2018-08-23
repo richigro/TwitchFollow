@@ -1,4 +1,4 @@
-const url = "endpoint here"
+const url = "https://openapi.etsy.com/v2/listings/active?api_key=wx9upjki3704ec3rnuf1r87c"
 
 function getDataFromApi(){
     $.ajax({
